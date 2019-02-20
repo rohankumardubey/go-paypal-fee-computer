@@ -1,6 +1,8 @@
-package paypal_fee_computer
+package paypal_fee_computer // import "src.techknowlogick.com/paypal-fee-computer"
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestCompute(t *testing.T) {
 
