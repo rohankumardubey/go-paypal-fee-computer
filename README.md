@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/techknowlogick/go-paypal-fee-computer"
+	"src.techknowlogick.com/paypal-fee-computer"
 )
 
 func main() {
