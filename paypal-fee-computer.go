@@ -1,4 +1,4 @@
-package paypal_fee_computer
+package paypal_fee_computer // import "src.techknowlogick.com/paypal-fee-computer"
 
 import "math"
 
